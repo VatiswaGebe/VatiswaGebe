@@ -8,7 +8,7 @@ An aspiring **Software Engineer** and **Secure Code Developer** passionate about
 - 🎓 **Education:** Diploma in ICT (Application Development) from Walter Sisulu University
 - 🔐 **Certifications:** CompTIA Security+ Certified | Samsung Innovation Campus Graduate
 - 💼 **Goal:** Seeking entry-level Software Engineering, DevSecOps, or Cloud Support tracks
-- 📍 **Location:** Cape Town, South Africa (Open to immediate relocation)
+- 📍 **Location:** Eastern Cape , South Africa (Open to immediate relocation)
 
 ---
 
